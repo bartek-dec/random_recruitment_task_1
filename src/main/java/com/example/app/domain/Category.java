@@ -3,7 +3,6 @@ package com.example.app.domain;
 import lombok.*;
 
 import javax.persistence.*;
-import java.awt.print.Book;
 import java.util.ArrayList;
 import java.util.List;
 
