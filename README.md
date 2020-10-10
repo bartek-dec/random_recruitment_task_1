@@ -1,5 +1,5 @@
 # Random_recruitment_task_#1
-##Task
+## Task
 ### Create an application that will contain JPA entities:
 ### - Author (name, surname)
 ### - Category (name)
